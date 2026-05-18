@@ -14,8 +14,8 @@
 ## Результаты
 | Модель | F1 macro | ROC-AUC |
 |---|---|---|
-| TF-IDF + LogReg (baseline) | ~0.72 | ~0.88 |
-| rubert-tiny2 (fine-tuned)  | ~0.78 | ~0.93 |
+| TF-IDF + LogReg (baseline) | 0.7525 | 0.9158 |
+| rubert-tiny2 (fine-tuned)  | 0.7918 | 0.9399 |
 
 ## Датасет
 [MonoHime/ru_sentiment_dataset](https://huggingface.co/datasets/MonoHime/ru_sentiment_dataset)
